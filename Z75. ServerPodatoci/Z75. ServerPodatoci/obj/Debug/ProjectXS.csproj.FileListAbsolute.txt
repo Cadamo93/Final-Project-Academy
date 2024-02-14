@@ -1,0 +1,183 @@
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe.config
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.pdb
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.Interfaces.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.System.Drawing.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.IO.Packaging.dll
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.xml
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.xml
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.xml
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.AssemblyReference.cache
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.SuggestedBindingRedirects.cache
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.Properties.Resources.resources
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.GenerateResource.cache
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CoreCompileInputs.cache
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CopyComplete
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.exe
+D:\A\Proekti\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.pdb
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe.config
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.pdb
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.Interfaces.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.System.Drawing.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.IO.Packaging.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.AssemblyReference.cache
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.SuggestedBindingRedirects.cache
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.Properties.Resources.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.GenerateResource.cache
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CoreCompileInputs.cache
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CopyComplete
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.exe
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.pdb
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe.config
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.pdb
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.Interfaces.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.System.Drawing.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.IO.Packaging.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.xml
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.xml
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.xml
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.AssemblyReference.cache
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.SuggestedBindingRedirects.cache
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.Properties.Resources.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.GenerateResource.cache
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CoreCompileInputs.cache
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CopyComplete
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.exe
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.pdb
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.xml
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe.config
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.pdb
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.Interfaces.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.System.Drawing.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.IO.Packaging.dll
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.xml
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.xml
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.xml
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.xml
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.AssemblyReference.cache
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.Properties.Resources.resources
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.GenerateResource.cache
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CoreCompileInputs.cache
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CopyComplete
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.exe
+D:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.pdb
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe.config
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.pdb
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.Interfaces.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.System.Drawing.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.IO.Packaging.dll
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.xml
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.xml
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.xml
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.xml
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.AssemblyReference.cache
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.SuggestedBindingRedirects.cache
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.Properties.Resources.resources
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.GenerateResource.cache
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CoreCompileInputs.cache
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CopyComplete
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.exe
+E:\LogIn i stopericac - SQLite\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.pdb
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.xml
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe.config
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.exe
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Z75.ServerPodatoci.pdb
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.Interfaces.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.System.Drawing.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.IO.Packaging.dll
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.xml
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\EPPlus.xml
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\Newtonsoft.Json.xml
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\bin\Debug\System.Data.SQLite.xml
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.AssemblyReference.cache
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.SuggestedBindingRedirects.cache
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.Properties.Resources.resources
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.GenerateResource.cache
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CoreCompileInputs.cache
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\ProjectXS.csproj.CopyComplete
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.exe
+d:\user\Desktop\Github\Z75. ServerPodatoci\Z75. ServerPodatoci\obj\Debug\Z75.ServerPodatoci.pdb

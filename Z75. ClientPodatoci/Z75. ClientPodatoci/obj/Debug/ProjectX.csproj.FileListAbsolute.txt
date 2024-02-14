@@ -1,0 +1,156 @@
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe.config
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.pdb
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.dll
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.dll
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.xml
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.xml
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.AssemblyReference.cache
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.SuggestedBindingRedirects.cache
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form2.resources
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Properties.Resources.resources
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.GenerateResource.cache
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CoreCompileInputs.cache
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CopyComplete
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.exe
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.pdb
+D:\A\Proekti\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Form3.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe.config
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.pdb
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.AssemblyReference.cache
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.SuggestedBindingRedirects.cache
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form2.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Form3.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Properties.Resources.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.GenerateResource.cache
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CoreCompileInputs.cache
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CopyComplete
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.exe
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.pdb
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe.config
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.pdb
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.xml
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.xml
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.AssemblyReference.cache
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.SuggestedBindingRedirects.cache
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form2.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Form3.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Properties.Resources.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.GenerateResource.cache
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CoreCompileInputs.cache
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CopyComplete
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.exe
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.pdb
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.dll
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.xml
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe.config
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.pdb
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.dll
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.dll
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.dll
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.xml
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.xml
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.xml
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.AssemblyReference.cache
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form2.resources
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Form3.resources
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Onboarding.resources
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Properties.Resources.resources
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.GenerateResource.cache
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CoreCompileInputs.cache
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CopyComplete
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.exe
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.pdb
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe.config
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.pdb
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.dll
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.dll
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.dll
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.xml
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.xml
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.xml
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.AssemblyReference.cache
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.SuggestedBindingRedirects.cache
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form2.resources
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Form3.resources
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Onboarding.resources
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Properties.Resources.resources
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.GenerateResource.cache
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CoreCompileInputs.cache
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CopyComplete
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.exe
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.pdb
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Manager.resources
+D:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.NewUser.resources
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Manager.resources
+E:\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.NewUser.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Manager.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.NewUser.resources
+d:\user\Desktop\Github\Finalen Proekt\LogIn i stopericac - SQLite\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Onboarding.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.dll
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.xml
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Manager.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.NewUser.resources
+d:\user\Desktop\Github\Tim2S27\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Onboarding.resources
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe.config
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.pdb
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.dll
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.dll
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.dll
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.dll
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.EF6.dll
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.Linq.dll
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.xml
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EntityFramework.SqlServer.xml
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Newtonsoft.Json.xml
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.Data.SQLite.xml
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.AssemblyReference.cache
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.SuggestedBindingRedirects.cache
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form1.resources
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.Project_X.Form2.resources
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Form3.resources
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Manager.resources
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.NewUser.resources
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Onboarding.resources
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Properties.Resources.resources
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.GenerateResource.cache
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CoreCompileInputs.cache
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\ProjectX.csproj.CopyComplete
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.exe
+d:\user\Desktop\Github\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.pdb
